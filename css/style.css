@@ -1,0 +1,138 @@
+.container {
+  width: 500px;
+  margin: auto;
+}
+
+.facebook_login_from {
+  background: #edf0f5;
+}
+
+.form_inner_title h2 {
+  font-size: 43px;
+  font-family: inherit;
+}
+
+.from_inner_part {
+  text-align: center;
+}
+
+.button_area {
+  width: 273px;
+  background: #0e75f7;
+  margin: auto;
+  padding: 8px 2px;
+  border-radius: 4px;
+  margin-top: 20px;
+}
+
+.button_area a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 22px;
+  font-family: initial;
+}
+
+.create_a {
+  width: 164px;
+  background: #39a326;
+  margin: auto;
+  padding: 14px 0px;
+  margin-top: 20px;
+}
+
+.create_a a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 18px;
+  font-family: initial;
+}
+
+.forgot_area {
+  margin-top: 20px;
+}
+
+.forgot_area a {
+  color: #71aae8;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.container {
+  width: 500px;
+  margin: auto;
+  box-shadow: -1px 2px 16px -1px #383737;
+  padding: 117px 23px;
+  margin-top: 88px;
+}
+
+.facebook_login_from {
+  background: #edf0f5;
+}
+
+.form_inner_title h2 {
+  font-size: 43px;
+  font-family: inherit;
+}
+
+.from_inner_part {
+  text-align: center;
+}
+
+.button_area {
+  width: 273px;
+  background: #0e75f7;
+  margin: auto;
+  padding: 8px 2px;
+  border-radius: 4px;
+  margin-top: 20px;
+}
+
+.button_area a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 22px;
+  font-family: initial;
+}
+
+.create_a {
+  width: 164px;
+  background: #39a326;
+  margin: auto;
+  padding: 14px 0px;
+  margin-top: 20px;
+  border-radius: 7px;
+}
+
+.create_a a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 18px;
+  font-family: initial;
+}
+
+.forgot_area {
+  margin-top: 20px;
+}
+
+.forgot_area a {
+  color: #71aae8;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.email_area .inp {
+  padding: 12px;
+  width: 265px;
+  font-size: 15px;
+  border-radius: 7px;
+  border: 2px solid #e4e4e4;
+}
+
+.Password_area .inp {
+  padding: 12px;
+  width: 265px;
+  font-size: 15px;
+  margin-top: 6px;
+  border-radius: 7px;
+  border: 2px solid #e4e4e4;
+}
